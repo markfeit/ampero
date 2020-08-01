@@ -2,7 +2,7 @@
 
 This is a set of patches for the Ampero and Ampero One.
 
-Each `.prst` file is accompanied by a `.md` file that describes it.
+Each `.prst` file is accompanied by a `.md` file that can be clicked on to read the description.
 
 ## License
 
