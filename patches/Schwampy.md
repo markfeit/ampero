@@ -1,21 +1,15 @@
 # Schwampy
 
-Attempt at a Credence Clearwater Revival-type vibrato sound.
-
-Amp selection needs work and will probably change.
+A tremolo-laden sound inspired by Credence Clearwater Revival.
 
 
 ## Controls
 
-### CTRL
-
-**Green** - Clean
-
-**Red** - Distorted
-
-
-### EXP1
-
-**Engaged (Green)** - Pedal changes the amount of distortion while
-  maintaining approximately the same volume.
-  
+| Control | Description |
+| ------- | ----------- |
+| **CTRL** | Switches between lightly crunchy (green) and clean with delay (red). |
+| **EXP1** | Adds depth to the tremolo (up for more depth, down for the usual amount). |
+| **EXP2** | Not Set |
+| **Knob 1** | Tremolo Depth |
+| **Knob 2** | Tremolo Color |
+| **Knob 3** | Reverb Mix |
