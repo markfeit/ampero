@@ -4,6 +4,8 @@ This is a set of patches for the Ampero and Ampero One.
 
 Each `.prst` file is accompanied by a `.md` file that can be clicked on to read the description.
 
+To download a patch, click on its `.prst` file and then click the `Download` button on the right side of the page.
+
 ## License
 
 These patches are licensed under the Creative Commons [BY-NC-SA
