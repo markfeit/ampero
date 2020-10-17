@@ -1,5 +1,7 @@
 # Fryin' Seltzer
 
+[Download](https://github.com/markfeit/ampero/raw/master/patches/Fryin'-Seltzer.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
+
 A sound inspired by Brian Setzer's usual rig.
 
 ## Controls

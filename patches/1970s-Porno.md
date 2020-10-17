@@ -1,9 +1,7 @@
 # 1970s Porno
 
 
-[Download](https://github.com/markfeit/ampero/raw/master/patches/1970s-Porno.prst) \
-| [License](README.md#License) \
-| [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
+[Download](https://github.com/markfeit/ampero/raw/master/patches/1970s-Porno.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
 
 Bown-chicka-bow-wowwww.  Sit back and enjoy the automatic wah.
 

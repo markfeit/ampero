@@ -1,6 +1,6 @@
 # Skids Marks
 
-[Download](Skids-Marks.prst)
+[Download](https://github.com/markfeit/ampero/raw/master/patches/Skids Marks.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
 
 Kick back with your vanilla wafers and some day-old banana puddin' for
 a sound inspired by Rick Miller's more-recent on-stage rigs.

@@ -1,5 +1,7 @@
 # Scratchpad Blank
 
+[Download](https://github.com/markfeit/ampero/raw/master/patches/Scratchpad-Blank.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
+
 A minimally-amplified patch to use as a starting point for new patches.
 
 

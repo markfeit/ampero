@@ -1,5 +1,7 @@
 # Schwampy
 
+[Download](https://github.com/markfeit/ampero/raw/master/patches/Schwampy.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
+
 A tremolo-laden sound inspired by Credence Clearwater Revival.
 
 
