@@ -2,18 +2,19 @@
 
 [Download](https://github.com/markfeit/ampero/raw/master/patches/Skids-Marks.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
 
-Kick back with your vanilla wafers and some day-old banana puddin' for
-a sound inspired by Rick Miller's more-recent on-stage rigs.
+Kick back with an eight-piece box for a sound inspired by Rick
+Miller's more-recent on-stage rigs.
 
-This patch was designed around a Stratocaster middle pickup for
-_Banana Puddin'_ but works pretty well for most Southern Culture on
-the Skids songs.  Switch to the bridge for more trebly tunes like
-_King of the Mountain_ and _Liquored Up and Lacquered Down_.  The neck
-pickup doesn't sound much like SCOTS at all and the blended positions
-(bridge/middle, middle/neck) are... well... just _don't._
+This patch was designed for playing _Banana Puddin'_ with a
+Stratocaster middle pickup but works pretty well for most Southern
+Culture on the Skids songs.  Switch to the bridge for more trebly
+tunes like _King of the Mountain_ or _Liquored Up and Lacquered Down_.
+The neck pickup doesn't sound much like SCOTS at all and the blended
+positions (bridge/middle, middle/neck) are... well... just _don't._
 
 Of course, if you've got a ratty old Danelectro 3011 with a P-90 at
-the bridge, and a good coating of chicken grease, use that.
+the bridge and a good coating of chicken grease, skip the Strat and
+use that.
 
 
 ## Controls
@@ -33,5 +34,5 @@ The tremolo depth increases as the pedal is pulled back and returns to
 normal at the bottom of its travel so the patch is in its default
 state when the pedal is disabled.
 
-The lead setting switches the drive from clean to something noisier
-(Boss SD-1) and drops the tremolo and delay.
+The lead setting switches the drive from clean to something slightly
+crunchier (Boss SD-1) and drops the tremolo and delay.
