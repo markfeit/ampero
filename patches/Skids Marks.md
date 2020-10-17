@@ -1,4 +1,6 @@
-# Skids Marks  ([Download](Skids Marks.prst))
+# Skids Marks
+
+([Download](Skids Marks.prst))
 
 Kick back with your vanilla wafers and some day-old banana puddin' for
 a sound inspired by Rick Miller's more-recent on-stage rigs.
