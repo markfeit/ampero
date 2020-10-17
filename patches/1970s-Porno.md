@@ -1,6 +1,6 @@
 # 1970s Porno
 
-[Download](1970s-Porno.prst) | [License](README.md)
+[Download](https://github.com/markfeit/ampero/raw/master/patches/1970s-Porno.prst) | [License](README.md#License)
 
 Bown-chicka-bow-wowwww.  Sit back and enjoy the automatic wah.
 
