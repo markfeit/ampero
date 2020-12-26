@@ -17,7 +17,7 @@ IR.
 | Control | Description |
 | ------- | ----------- |
 | **CTRL** | Adds compression (Red) |
-| **EXP1** | Amp |
+| **EXP1** | None |
 | **EXP2** | None |
 | **Knob 1** | Amp Gain |
 | **Knob 2** | Amp Presence |
