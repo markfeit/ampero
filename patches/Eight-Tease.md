@@ -5,7 +5,7 @@
 This patch could be the cure for any damned killing joke you heard in
 church.  It might even lead to nirvana.
 
-Works well on a Strat single coils, P-90s and bridge humbuckers.
+Works well on Strat single coils, P-90s and bridge humbuckers.
 
 
 ## Controls
