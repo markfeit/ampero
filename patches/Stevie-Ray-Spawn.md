@@ -5,8 +5,7 @@
 It's Hard to Be in a Rude Mood when The House is Rockin' and you're
 playing this patch with or without a Texas Flood of wah.  This patch's
 Pride and Joy is the neck pickup on a Strat, but it wouldn't be Dirty
-Pool to use the middle or both together.  The bridge will leave you in
-a Rude Mood.
+Pool to use the middle or both together.
 
 
 **IMPORTANT NOTE:** A bug in version 3.7 of the Ampero firmware causes
