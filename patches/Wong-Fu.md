@@ -34,7 +34,7 @@ Python](https://en.wikipedia.org/wiki/Rabbit_of_Caerbannog#Holy_Hand_Grenade_of_
 
 ### Other Effects
 
- * **FX3 (Crier) - Quarter-note wah
+ * **FX3 (Crier)** - Quarter-note wah
  * **DLY (Mag Eko)** - Sixteenth-note slapback with moderate feedback
 
 
