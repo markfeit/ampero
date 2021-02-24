@@ -30,18 +30,13 @@ Python](https://en.wikipedia.org/wiki/Rabbit_of_Caerbannog#Holy_Hand_Grenade_of_
 | **EXP2** | None |
 | **Knob 1** | Drive Gain (Angry Cory mode) |
 | **Knob 2** | Wah Rate |
-| **Knob 3** | None |
+| **Knob 3** | Cabinet Z (Affects brittleness) |
 
 ### Other Effects
 
  * **FX3 (Crier)** - Quarter-note wah
  * **DLY (Mag Eko)** - Sixteenth-note slapback with moderate feedback
 
-
-## To Do
-
- * Sound is still not as brittle as it could be.
- * Investigate different cabinets; try something 4x10.
 
 
 ## Everything Else
