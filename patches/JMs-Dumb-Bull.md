@@ -21,7 +21,7 @@ preference:
 
  * Changed NR to Smart Gate.
 
- * Increased Green Drive volume to 50 to it stands out a little more
+ * Increased Green Drive volume to 50 so it stands out a little more
    for lead.
 
  * Cut amplifier gain back back to 24 avoid weird reaction to what
