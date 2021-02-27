@@ -2,11 +2,11 @@
 
 [Download](https://github.com/markfeit/ampero/raw/master/patches/Wong-Fu.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
 
-**THIS PATCH IS A DRAFT AND IS NOT YET IN ITS FINAL FORM.  IT WILL
-CHANGE, HOPEFULLY FOR THE BETTER.**
-
 This patch is based on a some of what Cory Wong has discussed about
-how he records in the studio with the addition of a cabinet.
+how he records in the studio with the addition of a cabinet and some
+additional effects that are off by default.  The brittleness of Cory's
+sound has been difficult to replicate, but maybe a future version will
+improve on it.
 
 Best played through a blue Strat.
 
