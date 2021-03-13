@@ -1,14 +1,17 @@
-# Ampero Patches
+# Ampero Factory Patches Revisited
 
-This is a set of patches for the Ampero and Ampero One.
+These are revisions of the factory patches that ship with the Ampero
+and Ampero One that have been fine tuned, mostly for levels and noise
+reduction.
 
-Each `.prst` file is accompanied by a `.md` file that can be clicked on to read the description.
+The title of each revised patch has an asterisk (`*`) at the end to
+indicate that it is not the original.
 
-To download a patch, click on its `.prst` file and then click the `Download` button on the right side of the page.
+To download a patch, click on its `.prst` file and then click the
+`Download` button on the right side of the page.
 
-If you're looking for tweaked versions of the factory patches, those
-can be found [here](../factory).
-
+If you're looking for original patches, those can be found
+[here](../patches).
 
 ## License
 
