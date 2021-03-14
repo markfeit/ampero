@@ -6,7 +6,7 @@ Strap on your archtop, roll back the tone control and play some jazz.
 
 This patch harnesses some of the darkness and light breakup of a
 Fender Bassman and puts it through a 15-inch bass cabinet to give it
-a sound of an early-1950s amp.
+the sound of an early-1950s amp.
 
 The genesis of this patch was Hotone's _Archtop Clean_ (F06-3), but it
 has evolved over time to have nothing in common with it.
