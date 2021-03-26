@@ -8,12 +8,6 @@ Pride and Joy is the neck pickup on a Strat, but it wouldn't be Dirty
 Pool to use the middle or both together.
 
 
-**IMPORTANT NOTE:** A bug in version 3.7 of the Ampero firmware causes
-the Cry Wah effect (FX2) to turn on when the patch is selected, which
-isn't the desired behavior.  **Tap the CTRL button before playing to
-turn it off.**  This problem has been reported to Hotone and the patch
-will be corrected once they fix it.
-
 
 ## Controls
 
