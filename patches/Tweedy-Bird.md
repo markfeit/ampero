@@ -11,15 +11,17 @@ and gets more Neil Young-y as you bite into it.
 
 | Control | Description |
 | ------- | ----------- |
-| **CTRL** | Normal (Green) / Phaser + Delay (Red) |
-| **EXP1** | Wah |
+| **CTRL** | Normal (Green) / Overdrive (Red) |
+| **EXP1** | None |
 | **EXP2** | None |
-| **Knob 1** | Wah Q |
+| **Knob 1** | Drive Tone |
 | **Knob 2** | Amp Tone |
 | **Knob 3** | Reverb Mix |
 
 
 ### Other Effects
 
- * **FX2 (Grand Vibrato)** - More or less the stock settings
+ * **FX3 (Custom Tremolo)** - Does what you'd expect
  * **EQ (V-EQ)** - Cuts back on some of the highs from single-coil pickups.
+ * **DLY (Mag Eko)** - Slow and slappy
+ 
