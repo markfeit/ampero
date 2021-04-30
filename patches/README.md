@@ -9,6 +9,11 @@ To download a patch, click on its `.prst` file and then click the `Download` but
 If you're looking for tweaked versions of the factory patches, those
 can be found [here](../factory).
 
+**NOTE:** Unless otherwise indicated, these patches were developed for
+  Ampero firmware 3.7 and earlier.  The gain structure of the unit
+  changed in 3.8, which means the patch level and cabinet volumes will
+  need to be adjusted on units running that version.
+
 
 ## License
 
