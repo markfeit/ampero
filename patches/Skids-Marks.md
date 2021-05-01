@@ -2,8 +2,16 @@
 
 [Download](https://github.com/markfeit/ampero/raw/master/patches/Skids-Marks.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
 
-Kick back with an eight-piece box for a sound inspired by Rick
+| Firmware | 3.7 |
+|----------|-----|
+
+Kick back with an eight-piece box for pair of sounds inspired by Rick
 Miller's more-recent on-stage rigs.
+
+This patch comes as a pair.
+
+
+
 
 This patch was designed for playing _Banana Puddin'_ with a
 Stratocaster middle pickup but works pretty well for most Southern

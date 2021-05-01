@@ -2,6 +2,8 @@
 
 [Download](https://github.com/markfeit/ampero/raw/master/patches/Tweedy-Bird.prst) | [Revisions](https://github.com/markfeit/ampero/commits/master/patches/Tweedy-Bird.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
 
+| Firmware | 3.7 |
+|----------|-----|
 
 This patch starts just over the line of the Tweed Deluxe's harder side
 and gets more Neil Young-y as you bite into it.

@@ -2,6 +2,9 @@
 
 [Download](https://github.com/markfeit/ampero/raw/master/patches/Plastic-Tube.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
 
+| Firmware | 3.7 |
+|----------|-----|
+
 If you feel like we do, this patch attempts to recreate a some of the
 sounds of talkbox effects popular during the 1970s.
 

@@ -2,6 +2,9 @@
 
 [Download](https://github.com/markfeit/ampero/raw/master/patches/Arch-Rival.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
 
+| Firmware | 3.7 |
+|----------|-----|
+
 Strap on your archtop, roll back the tone control and play some jazz.
 
 This patch harnesses some of the darkness and light breakup of a

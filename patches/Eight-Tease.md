@@ -2,6 +2,9 @@
 
 [Download](https://github.com/markfeit/ampero/raw/master/patches/Eight-Tease.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
 
+| Firmware | 3.7 |
+|----------|-----|
+
 This patch could be the cure for any damned killing joke you heard in
 church.  It might even lead to nirvana.
 

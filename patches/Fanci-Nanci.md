@@ -2,6 +2,9 @@
 
 [Download](https://github.com/markfeit/ampero/raw/master/patches/Fanci-Nanci.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
 
+| Firmware | 3.7 |
+|----------|-----|
+
 Capo up at the third fret and try out this acoustic guitar simulator
 inspired by Nanci Griffith's Taylor 512.
 

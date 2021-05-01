@@ -2,6 +2,9 @@
 
 [Download](https://github.com/markfeit/ampero/raw/master/patches/Stevie-Ray-Spawn.prst) | [Revisions](https://github.com/markfeit/ampero/commits/master/patches/Stevie-Ray-Spawn.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
 
+| Firmware | 3.7 |
+|----------|-----|
+
 It's Hard to Be in a Rude Mood when The House is Rockin' and you're
 playing this patch with or without a Texas Flood of wah.  This patch's
 Pride and Joy is the neck pickup on a Strat, but it wouldn't be Dirty
