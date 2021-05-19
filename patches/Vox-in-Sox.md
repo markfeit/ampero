@@ -2,8 +2,8 @@
 
 [Download](https://github.com/markfeit/ampero/raw/master/patches/Vox-in-Sox.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
 
-| Firmware | 3.8 |
-|----------|-----|
+| Firmware | 3.8SP1 |
+|----------|--------|
 
 While you're avoiding the pox, break this Vox out of the box and sit
 around playing a guitar in your sox.
