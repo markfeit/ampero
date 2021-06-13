@@ -2,8 +2,8 @@
 
 [Download](https://github.com/markfeit/ampero/raw/master/patches/Twinny-Twin-Twin.prst) | [Revisions](https://github.com/markfeit/ampero/commits/master/patches/Twinny-Twin-Twin.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
 
-| Firmware | 3.7 |
-|----------|-----|
+| Firmware | 3.8SP1 |
+|----------|--------|
 
 This is a Fender Twin-style patch.  A clean boost drives the input
 just enough to to put some hair on your Twinny Twin Twin; the `CTRL`

@@ -1,24 +1,23 @@
-# Skids Marks
+# Skids Marks Supro
 
-[Download](https://github.com/markfeit/ampero/raw/master/patches/Skids-Marks.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
+[Download](https://github.com/markfeit/ampero/raw/master/patches/Skids-Marks-Supro.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
 
-| Firmware | 3.7 |
-|----------|-----|
+| Firmware | 3.8SP1 |
+|----------|--------|
 
 Kick back with an eight-piece box for pair of sounds inspired by Rick
 Miller's more-recent on-stage rigs.
 
-This patch comes as a pair.
+This patch comes as a pair, one Fender-flavored and one Supro-flavored
+(this patch).
 
-
-
-
-This patch was designed for playing _Banana Puddin'_ with a
-Stratocaster middle pickup but works pretty well for most Southern
-Culture on the Skids songs.  Switch to the bridge for more trebly
-tunes like _King of the Mountain_ or _Liquored Up and Lacquered Down_.
-The neck pickup doesn't sound much like SCOTS at all and the blended
-positions (bridge/middle, middle/neck) are... well... just _don't._
+These patches were originally designed for playing _Banana Puddin'_
+with a Stratocaster middle pickup but works pretty well for most
+Southern Culture on the Skids songs.  Switch to the bridge for more
+trebly tunes like _King of the Mountain_ or _Liquored Up and Lacquered
+Down_.  The neck pickup doesn't sound much like SCOTS at all and the
+blended positions (bridge/middle, middle/neck) are... well... just
+_don't._
 
 Of course, if you've got a ratty old Danelectro 3011 with a P-90 at
 the bridge and a good coating of chicken grease, skip the Strat and

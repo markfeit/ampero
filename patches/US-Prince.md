@@ -2,8 +2,8 @@
 
 [Download](https://github.com/markfeit/ampero/raw/master/patches/US-Prince.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
 
-| Firmware | 3.7 |
-|----------|-----|
+| Firmware | 3.8SP1 |
+|----------|--------|
 
 This patch is a revised version of _US Princess_ developed by Marcello
 Mura and inspired by the US Princess (Fender Princeton) amp model in

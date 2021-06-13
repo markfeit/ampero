@@ -2,8 +2,8 @@
 
 [Download](https://github.com/markfeit/ampero/raw/master/patches/Wong-Fu.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
 
-| Firmware | 3.7 |
-|----------|-----|
+| Firmware | 3.7 (Still needs work for 3.8) | 
+|----------|--------------------------------|
 
 This patch is based on a some of what Cory Wong has discussed about
 how he records in the studio with the addition of a cabinet and some

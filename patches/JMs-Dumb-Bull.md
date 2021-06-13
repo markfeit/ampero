@@ -2,8 +2,8 @@
 
 [Download](https://github.com/markfeit/ampero/raw/master/patches/JMs-Dumb-Bull.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
 
-| Firmware | 3.7 |
-|----------|-----|
+| Firmware | 3.8SP1 |
+|----------|--------|
 
 This patch is a revised version of _JM Dumblish Tone_, developed by
 Min Park and originally

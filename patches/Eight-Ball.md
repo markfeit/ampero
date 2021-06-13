@@ -2,8 +2,8 @@
 
 [Download](https://github.com/markfeit/ampero/raw/master/patches/Eight-Ball.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
 
-| Firmware | 3.7 |
-|----------|-----|
+| Firmware | 3.8SP1 |
+|----------|--------|
 
 This is a straight-ahead Marshall JCM 800 patch inspired by the amp
 settings in [this comparison
