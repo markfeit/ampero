@@ -16,7 +16,7 @@ Pool to use the middle or both together.
 
 | Control | Description |
 | ------- | ----------- |
-| **CTRL** | Wah Off (Red) / Wah On (Green) |
+| **CTRL** | Phaser On (Red) / Phaser Off (Green) |
 | **EXP1** | Wah |
 | **EXP2** | None |
 | **Knob 1** | Tube Screamer Gain |
