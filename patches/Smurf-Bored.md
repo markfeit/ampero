@@ -24,4 +24,3 @@ Cross the bridge pickup, overdrive down to the beach and catch a wave or two.
  * [Surf Rock in B minor (I-vi-IV-V) Backing Track No.19](https://www.youtube.com/watch?v=9ZB7s8RChxs)
  * [Surf Rock Backing Track in Bm](https://www.youtube.com/watch?v=TUwtxkZwc-Q)
  * [Blues Ventures backing track in A minor | 1960's style teen-beat surf guitar 12-bar!](https://www.youtube.com/watch?v=DmK5Rk2EKTc)
- 
