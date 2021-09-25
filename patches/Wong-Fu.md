@@ -2,8 +2,8 @@
 
 [Download](https://github.com/markfeit/ampero/raw/master/patches/Wong-Fu.prst) | [License](README.md#License) | [More Patches](https://github.com/markfeit/ampero/tree/master/patches)
 
-| Firmware | 3.7 (Still needs work for 3.8) | 
-|----------|--------------------------------|
+| Firmware | 3.8SP1 |
+|----------|--------|
 
 This patch is based on a some of what Cory Wong has discussed about
 how he records in the studio with the addition of a cabinet and some
@@ -11,7 +11,7 @@ additional effects that are off by default.  The brittleness of Cory's
 sound has been difficult to replicate, but maybe a future version will
 improve on it.
 
-Best played through a blue Strat.
+Best played on a blue Strat.
 
 Then shalt thou use pickup position four (neck + middle), no more, no
 less.  Four shall be the position thou shalt use, and the number of
